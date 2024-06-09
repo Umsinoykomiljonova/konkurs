@@ -362,3 +362,143 @@ font-weight: 600;
 line-height: 140%;
 margin-top: 60px;
 }
+.selec__content{
+  background-color: #961914;
+  width: 1440px;
+height: 530px;
+display: flex;
+align-items: center;
+gap: 55px;
+}
+.selec__title{
+  color: rgb(255, 255, 255);
+font-family: Oswald;
+font-size: 46px;
+font-weight: 700;
+line-height: 130%;
+margin-bottom: 20px;
+margin-left: 35px;
+}
+.selec__text{
+  color: rgb(255, 255, 255);
+font-family: Montserrat;
+font-size: 16px;
+font-weight: 400;
+line-height: 140%;
+margin-bottom: 20px;
+margin-left: 35px;
+}
+.selec__btn{
+font-family: Montserrat;
+font-size: 14px;
+font-weight: 500;
+line-height: 140%;
+letter-spacing: 0%;
+text-align: left;
+  border-radius: 8px;
+padding: 10px 42px;
+background: rgb(255, 255, 255);
+opacity: 0.2;
+margin-bottom: 20px;
+margin-left: 35px;
+border: none;
+}
+.selec__link{
+  color: rgb(255, 255, 255);
+font-family: Montserrat;
+font-size: 16px;
+font-weight: 700;
+line-height: 140%;
+margin-left: 35px;
+margin-bottom: 20px;
+}
+.slecimg{
+  width: 110px;
+height: 110px;
+transform: rotate(12.20deg);
+}
+.selec__img{
+  width: 134px;
+height: 133px;
+transform: rotate(-67.98deg);
+}
+.index__title{
+  color: rgb(255, 255, 255);
+font-family: Montserrat;
+font-size: 20px;
+font-weight: 600;
+line-height: 140%;
+margin-bottom: 25px;
+}
+.index__text{
+  color: rgb(255, 255, 255);
+font-family: Montserrat;
+font-size: 16px;
+font-weight: 400;
+line-height: 140%;
+}
+.btm{
+  color: rgb(255, 255, 255);
+font-family: Montserrat;
+font-size: 14px;
+font-weight: 400;
+line-height: 140%;
+letter-spacing: 0%;
+text-align: left;
+box-sizing: border-box;
+border: 1px solid rgba(255, 255, 255, 0.5);
+border-radius: 8px;
+padding: 10px 52px;
+border: none;
+background: rgba(255, 255, 255, 0.05);
+}
+.btm1{
+  color: rgb(255, 255, 255);
+font-family: Montserrat;
+font-size: 14px;
+font-weight: 400;
+line-height: 140%;
+letter-spacing: 0%;
+text-align: left;
+box-sizing: border-box;
+border: 1px solid rgba(255, 255, 255, 0.5);
+border-radius: 8px;
+padding: 10px 52px;
+border: none;
+background: rgba(255, 255, 255, 0.05);
+margin-bottom: 15px;
+}
+.btn2{
+  color: rgb(255, 255, 255);
+font-family: Montserrat;
+font-size: 14px;
+font-weight: 400;
+line-height: 140%;
+box-sizing: border-box;
+border: 1px solid rgba(255, 255, 255, 0.5);
+border-radius: 8px;
+padding: 60px 200px;
+border: none;
+background: rgba(255, 255, 255, 0.05);
+}
+.text{
+  color: rgb(255, 255, 255);
+font-family: Montserrat;
+font-size: 12px;
+font-weight: 400;
+line-height: 140%;
+letter-spacing: 0%;
+text-align: left;
+}
+.btn3{
+  color: rgb(236, 121, 115);
+font-family: Montserrat;
+font-size: 16px;
+font-weight: 700;
+line-height: 140%;
+border-radius: 8px;
+padding: 8px 32px;
+background: rgb(255, 244, 243);
+border: none;
+margin-bottom: 12px;
+}
